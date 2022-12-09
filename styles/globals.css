@@ -15,7 +15,7 @@
 
 @layer base {
     body {
-        @apply bg-hulublue text-gray-300;
+        @apply bg-hulublue text-gray-200;
     }
 }
 
